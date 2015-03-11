@@ -14,11 +14,9 @@
 * CSS LESS 
   * [B*Works Less Boilerplate](https://github.com/B--Works/LESS-Boilerplate)
   * [B*Works Less Mixins](https://github.com/B--Works/LESS-Mixins)
-
 * Code Snippet Manager
   *	[GitHub](https://github.com/B--Works)
   * [Snippets.me](http://snippets.me)
   * jQWidgets
-
 * References
   * [Web Fundamentals](https://developers.google.com/web/fundamentals/)
